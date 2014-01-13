@@ -1,14 +1,12 @@
 NAME
 
-       Char::TIS620 - Source code filter for TIS-620 script (Imitation JPerl)
+       TIS620 - Source code filter for TIS-620 script (Imitation JPerl)
 
 SYNOPSIS
 
     In your script:
 
-      use Char::TIS620; # CPAN formal style
-         or
-      use TIS620; # casual style
+      use TIS620;
 
     At command prompt:
 
